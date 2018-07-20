@@ -28,4 +28,4 @@ Select an appropriate model and tune it to improve its performance.
 
 ### Evaluation
 
-Report your results using appropriate metrics and explain key decisions in your process. Suggest possible improvemets.
+Report your results using appropriate metrics and explain key decisions in your process. Suggest possible improvements.
