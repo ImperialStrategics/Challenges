@@ -49,7 +49,7 @@ Any programming language is allowed as long as you provide an easy way to setup 
 
 You can choose to submit a **Jupyter Notebook** or a **PDF**. If you choose PDF we also require documented scripts to reproduce the results. There is no fixed structure for the report and it can look like a presentation if you wish.
 
-**We prefer quality of quantity, a perfectly good report could be comprised of a few slides & Jupyter workbook**
+**We prefer quality over quantity, a perfectly good report could be comprised of a few slides and a Jupyter workbook.**
 
 ### CV
 
@@ -59,4 +59,4 @@ Please include a copy of your CV within your email, specifically highlighting yo
 ## Notes
 
 * Deadlines cannot be extended
-* If you have any issues with the datasets please raise an Issue here on the Github Repo
+* If you have any problems with the datasets please raise an issue here on the Github Repo
