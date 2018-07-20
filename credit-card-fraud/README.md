@@ -8,7 +8,7 @@ Credit card companies have a difficult time keeping their customers safe. One pr
 
 This dataset contains transactions over two days with 492 frauds out of 284,807 transactions. The dataset is highly unbalanced (frauds are only 0.172% of total transactions). For security reasons, the original features are replaced with features V1,V2, ... V28 which were obtained via principle component analysis (PCA) transformation. The only original features (with no PCA transformation) are 'Time' and 'Amount'. 'Time' represents the seconds elapsed between that transaction and the first one provided in the dataset. The feature 'Class' indicates if the transaction was fraudulent (1) or not fraudulent (0).
 
-The dataset is provided in a simple `.csv` file located in the `dataset.csv.zip` archive. It is recommended to use the Python packages `numpy` and 'pandas` to read and manipulate the data.
+The dataset is provided in a simple `.csv` file located in the `dataset.csv.zip` archive. It is recommended to use the Python packages `numpy` and `pandas` to read and manipulate the data.
 
 ## Guidance
 
