@@ -22,7 +22,7 @@ Briefly summarise the goal of your chosen challenge and an abstract of your anal
 
 ### Model Selection & Validation
 
-We have **relaxed requirements** when it comes to the optimality of the final model because tasks may require high compute power. **We are much more interested in the process of your approach** which should come with developed and explained solutions.
+We have **relaxed requirements** when it comes to the optimality of the final model because tasks may require high compute power. **We are much more interested in the process of your approach**, which should come with developed and explained solutions.
 
 ### Visualizations & Statistics
 
@@ -44,3 +44,19 @@ Your `imperial_login` should be your Imperial College username (e.g. `abc12`). P
 ### Language
 
 Any programming language is allowed as long as you provide an easy way to setup the environment on MacOS or Ubuntu Desktop so we can reproduce your results. Please specify in the email if you have a preference between the two platforms.
+
+### Deliverables
+
+You can choose to submit a **Jupyter Notebook** or a **PDF**. If you choose PDF we also require documented scripts to reproduce the results. There is no fixed structure for the report and it can look like a presentation if you wish.
+
+**We prefer quality of quantity, a perfectly good report could be comprised of a few slides & Jupyter workbook**
+
+### CV
+
+Please include a copy of your CV within your email, specifically highlighting your Data Science experience/projects.
+
+
+## Notes
+
+* Deadlines cannot be extended
+* If you have any issues with the datasets please raise an Issue here on the Github Repo
