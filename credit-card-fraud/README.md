@@ -16,7 +16,7 @@ This is not an exhaustive list of tasks, the points are provided in order to gui
 
 ### Understanding the Data
 
-Due to the unbalanced nature of this dataset, identify a way to create a suitable training and testing set. Consider the need for scaling the data and explain how PCA transformation influences this decision. Explore and visualize the relationships between features and indentify any correlations.
+Due to the unbalanced nature of this dataset, identify a way to create a suitable training and testing set. Consider the need for scaling the data and explain how PCA transformation influences this decision. Explore and visualize the relationships between features and identify any correlations.
 
 ### Feature Selection & Engineering
 
