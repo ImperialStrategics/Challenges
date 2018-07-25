@@ -1,4 +1,4 @@
-# Mushroom Classification
+# Poisonous Mushroom Classification
 
 North American mushrooms are often used in a wide range of cooking applications. However some are poisonous and some aren't. Can you identify which are safe to eat?
 
