@@ -2,7 +2,7 @@
 
 ## Background
 
-Credit card companies have a difficult time keeping their customers safe. One problem they face is fradulent transactions, how can they make sure their customers don't get charged for items they did not buy?
+Credit card companies have a difficult time keeping their customers safe. One problem they face is fraudulent transactions, how can they make sure their customers don't get charged for items they did not buy?
 
 ## Dataset
 
